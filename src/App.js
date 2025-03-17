@@ -18,7 +18,7 @@ function App() {
 <Router>
 
   <Routes>
-<Route path="/home" element={<>
+<Route path="/" element={<>
 <Nav/>
 <Home/>
 </> }></Route>
