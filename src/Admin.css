@@ -1,0 +1,58 @@
+.verticald{
+
+  
+    height:710px;
+    width: 250px;
+    background-color: rgb(175, 206, 232);
+
+
+    cursor: pointer;
+}
+.verticald h1{
+
+
+    position: relative;
+    left: 29px;
+    top: 10px;
+
+  
+ font-size: 16px;
+ transform: rotate(90deg);
+ display: inline-block;
+}
+.zosh2{
+
+    width: 70px;
+    height: 22px;
+    position:relative;
+    left: 50px;
+    top: 12px;
+    
+}
+.di1{
+    position: relative;
+    top: 22px;
+
+padding: 0px 25px;
+
+    height: 43px;
+  
+    width: 200px;
+
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px ;
+}
+
+.di1:hover{
+
+    background-color: rgb(219, 223, 233);
+    cursor: pointer;
+}
+
+.di1 ul{
+
+    position:relative;
+    top: 9px;
+    color: black;
+}
+

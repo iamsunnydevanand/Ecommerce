@@ -1,0 +1,114 @@
+.homeA{
+    position: absolute;
+    left: 290px;
+    top:129px;
+
+   overflow-y: scroll;
+        height:582px;
+        width: 1200px;
+   
+        cursor: pointer;
+        background-color: rgb(243, 250, 243);
+    
+
+    }
+
+    .head{
+cursor: pointer;
+    position:absolute;
+    left: 290px;
+    width: 1200px;
+       top: 80px;
+
+      background-color: black;
+      height: 50px;
+      display: flex;
+      gap: 87px;
+      border-top-right-radius:5px ;
+      border-top-left-radius:5px ;
+    }
+    .no{
+
+
+        color: white;
+        text-decoration: none;
+        position: relative;
+        left: 20px;
+        top:12px;
+    }
+    .innerd{
+        position: relative;
+        top: 9px;
+
+
+        width: 100%;
+        height: 145px;
+
+    }
+    .numbers{
+
+position: absolute;
+        top:47px;
+        right:1155px
+    }
+
+    .id{
+
+        position: absolute;
+                top:47px;
+                right:1045px
+            }
+
+            .ai{
+
+                  position: absolute;
+                  width: 100px;
+                  height: 120px;
+                top:12px;
+                right: 870px;
+                border-radius:2px;
+            } 
+            
+
+            .cate{
+position:absolute;
+top: 77px;
+
+left: 1190px;
+
+color:white;            }
+            
+
+
+
+.namee{
+position:absolute;
+ top: 77px;
+ right:78px;
+  color:white; 
+ }
+
+ .url{
+position: relative;
+left: 606px;
+top: 64px;
+width: 400px;
+height: 40px;
+text-align: right;
+
+
+ 
+
+ }
+ .pencil{
+
+    position: absolute;
+left: 1130px;
+top: 59px;
+width: 30px;
+height: 30px;
+text-align: right;
+
+ }
+
+
