@@ -12,7 +12,7 @@ return(<>
   |||
 </h1>
 
-<a href="/home"><img src="zosh.png" className="zosh2"></img></a>
+<a href="/"><img src="zosh.png" className="zosh2"></img></a>
 
 
 <div className="di1">  <ul>Dashboard</ul></div>
